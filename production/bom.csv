@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0402,1,470n,
+J1,BNC_Molex_73100-0154-50_Horizontal,1,Conn_Coaxial,
+J2,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,1,Conn_Coaxial,
+R1,0402,1,270R,
+R2,0402,1,680R,
